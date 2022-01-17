@@ -1,0 +1,9 @@
+[package]
+name = "mdrend"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+clap = "2.33.0"
+pulldown-cmark = "0.4.1"
+maud = "0.20.0"
